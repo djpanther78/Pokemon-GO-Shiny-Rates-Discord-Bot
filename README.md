@@ -14,3 +14,4 @@ GUILD_ID=DiscordServerIDHere <br />
 
 2. `python -m pip install -r requirements.txt`
 3. Start the bot. PM2 recommended (`npm install -g pm2`) `pm2 start bot.py --name shinyratesdiscordbot`
+4. Use /shinyrates in your Discord server to get the Shiny Rates
