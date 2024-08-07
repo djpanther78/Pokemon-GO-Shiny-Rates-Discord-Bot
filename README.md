@@ -4,7 +4,7 @@ A Discord bot to display the Shiny rates of your Golbat instance from the last 2
 # Instructions:
 1. Edit the .env file. Here is an example:
 
-DISCORD_TOKEN=DiscordBotTokenHere
+DISCORD_TOKEN=DiscordBotTokenHere /n
 DB_HOST=DBHostHere (`ServerIP or Localhost` in most cases)
 DB_PORT=DBPortHere (`3306` in most cases)
 DB_NAME=DBNameHere (`golbat` in most cases)
